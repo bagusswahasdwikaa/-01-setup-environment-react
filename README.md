@@ -11,7 +11,22 @@
 
 Bukti setup environment telah berhasil di  komputer.
 
-![Screenshot](assets-report/01.png)
+- Instalasi Git
+
+![alt text](<img/git --version.png>)
+
+![alt text](img/git.png)
+
+- Instalasi VS Code
+
+![alt text](img/vscode.png)
+
+- Instalasi NodeJS dan NPM
+
+![alt text](img/nodejs.png)
+
+![alt text](img/node-npm-versi.png)
+
 
 ### Praktikum 2 : Membuat Proyek Pertama React Menggunakan Next.js
 
