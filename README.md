@@ -7,10 +7,17 @@
 | Kelas | TI - 3D |
 
 
-### Jawaban Soal 1
+### Praktikum 1
 
 Bukti setup environment telah berhasil di  komputer.
 
 ![Screenshot](assets-report/01.png)
 
-Contoh perubahan.
+### Praktikum 2
+
+### Praktikum 3
+
+### Praktikum 4
+
+### Praktikum 5
+
