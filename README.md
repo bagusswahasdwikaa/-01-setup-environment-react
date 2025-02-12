@@ -13,14 +13,17 @@
 2. Bukti setup environment telah berhasil di  komputer.
 
 - Instalasi Git
+
   ![alt text](<img/git --version.png>)
 
   ![alt text](img/git.png)
 
 - Instalasi VS Code
+
   ![alt text](img/vscode.png)
 
 - Instalasi NodeJS dan NPM
+
   ![alt text](img/nodejs.png)
 
   ![alt text](img/node-npm-versi.png)
@@ -36,9 +39,11 @@
 3. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
 
 - Create Project Hello World
+
     ![alt text](img/new-project-react.png)
 
 - Running Project Hello World
+
     ![alt text](img/run-project-helloworld.png)
 
 ### Praktikum 3 : Menambahkan Komponen React (Button)
