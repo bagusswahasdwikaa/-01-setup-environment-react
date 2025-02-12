@@ -47,20 +47,25 @@
     - public/ → Folder untuk menyimpan file statis seperti gambar, font, dan favicon yang bisa diakses langsung melalui URL.
     - src/app/ → Folder utama untuk komponen dan halaman aplikasi menggunakan App Router.
     - File dalam src/app/ yang dibutuhkan:
+      
       =>favicon.ico → Ikon yang muncul di tab browser.
+      
       =>globals.css → File CSS global untuk styling seluruh aplikasi.
+      
       =>layout.tsx → Menentukan tata letak global (misalnya header dan sidebar).
+      
       =>page.tsx → Halaman utama (/), setara dengan index.js di React.
       .gitignore → Menentukan file atau folder yang diabaikan oleh Git, seperti node_modules/ dan .next/.
-  - eslint.config.mjs → Konfigurasi ESLint untuk memastikan kode tetap bersih dan sesuai standar.
-  - next-env.d.ts → Memastikan proyek Next.js berjalan dengan TypeScript tanpa konfigurasi tambahan.
-  - next.config.ts → File konfigurasi Next.js untuk mengatur base path, optimasi gambar, dan lainnya.
-  - package-lock.json → Mengunci versi dependensi agar tidak berubah.
-  - package.json → Berisi informasi proyek, daftar dependensi, dan skrip npm.
-  - postcss.config.mjs → Konfigurasi PostCSS, biasanya digunakan dengan Tailwind CSS.
-  - README.md → Dokumentasi proyek yang berisi petunjuk penggunaan dan informasi penting lainnya.
-  - tailwind.config.ts → Konfigurasi Tailwind CSS, seperti tema warna dan breakpoint.
-  - tsconfig.json → Konfigurasi TypeScript yang menentukan aturan penggunaan tipe data di proyek.
+    
+    - eslint.config.mjs → Konfigurasi ESLint untuk memastikan kode tetap bersih dan sesuai standar.
+    - next-env.d.ts → Memastikan proyek Next.js berjalan dengan TypeScript tanpa konfigurasi tambahan.
+    - next.config.ts → File konfigurasi Next.js untuk mengatur base path, optimasi gambar, dan lainnya.
+    - package-lock.json → Mengunci versi dependensi agar tidak berubah.
+    - package.json → Berisi informasi proyek, daftar dependensi, dan skrip npm.
+    - postcss.config.mjs → Konfigurasi PostCSS, biasanya digunakan dengan Tailwind CSS.
+    - README.md → Dokumentasi proyek yang berisi petunjuk penggunaan dan informasi penting lainnya.
+    - tailwind.config.ts → Konfigurasi Tailwind CSS, seperti tema warna dan breakpoint.
+    - tsconfig.json → Konfigurasi TypeScript yang menentukan aturan penggunaan tipe data di proyek.
 
 3. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
 
@@ -75,9 +80,9 @@
 ### Praktikum 3 : Menambahkan Komponen React (Button)
 1. Menambahkan fungsi MyButton di file page.tsx yang mengembalikan markup komponen button yang akan ditambahkan ke dalam webpage
 
-  ![alt text](image.png)
+  ![alt text](img/image.png)
 
-  ![alt text](image-1.png)
+  ![alt text](img/image-1.png)
 
 2. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
 
@@ -89,5 +94,5 @@
 
 2. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
 
-  ![alt text](image-2.png)
+  ![alt text](img/image-2.png)
 
