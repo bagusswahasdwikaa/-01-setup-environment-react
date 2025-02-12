@@ -7,17 +7,15 @@
 | Kelas | TI - 3D |
 
 
-### Praktikum 1
+### Praktikum 1 : Menyiapkan Lingkungan Pengembangan
 
 Bukti setup environment telah berhasil di  komputer.
 
 ![Screenshot](assets-report/01.png)
 
-### Praktikum 2
+### Praktikum 2 : Membuat Proyek Pertama React Menggunakan Next.js
 
-### Praktikum 3
+### Praktikum 3 : Menambahkan Komponen React (Button)
 
-### Praktikum 4
-
-### Praktikum 5
+### Praktikum 4 :  Menulis Markup dengan JSX
 
