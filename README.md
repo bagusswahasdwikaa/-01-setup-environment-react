@@ -30,6 +30,8 @@ Bukti setup environment telah berhasil di  komputer.
 
 ### Praktikum 2 : Membuat Proyek Pertama React Menggunakan Next.js
 
+
+
 ### Praktikum 3 : Menambahkan Komponen React (Button)
 
 ### Praktikum 4 :  Menulis Markup dengan JSX
